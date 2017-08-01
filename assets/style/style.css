@@ -1,0 +1,40 @@
+body {
+	background-color: lightyellow;
+	text-align: center;
+
+
+}
+
+.panel {
+	background-color: dodgerblue;
+	padding: 20px;
+
+}
+
+.buttons{
+	padding: 20px;
+	background-color: green;
+}
+
+#ram-button {
+	color: blue;
+	background-color: gold;
+}
+
+#mm-button {
+	color: black;
+	background-color: red;
+}
+
+#dd-button {
+	color: blue;
+	background-color: white;
+}
+
+#images {
+	padding: 30px;
+}
+
+input {
+	margin: 10px;
+}
